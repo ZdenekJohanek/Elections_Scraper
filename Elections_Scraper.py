@@ -1,3 +1,10 @@
+"""
+projekt_3.py: třetí projekt do Engeto Online Python Akademie
+
+author: Zdeněk Johánek
+email: zdenek.johanek@infomatic.cz
+discord: zdenek0004_27578
+"""
 import argparse
 import re
 import sys
